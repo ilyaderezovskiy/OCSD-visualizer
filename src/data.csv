@@ -1,0 +1,7 @@
+source,target,value,nodeColorTarget
+Dist A,Place1,1,blue
+DistA,Place1,3,red
+DistB,Place1,12,blue
+DistB,Place2,2,grey
+DistB,Place2,1,grey
+DistB,Place3,2,blue
