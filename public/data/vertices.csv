@@ -1,0 +1,11 @@
+place_order;item_out_of_stock;reorder_item;pick_item;confirm_order;payment_remider;payment;create_package;send_package;failed_delivery;package_delivered
+item;item_pass;item_pass;item;item;item_pass;item;item;item;item_pass;item
+;;;;;;;;;;
+item_pass;item;item;item_pass;item_pass;item;item_cycle_back;item_pass;item_pass;item;item_pass
+item_cycle_back;item_cycle_back;item_cycle_back;item_cycle_back;item_cycle_back;item_cycle_back;item_cycle;item_cycle_back;item_cycle_back;item_cycle_back;item_cycle_back
+item_cycle;item_cycle;item_cycle;item_cycle;item_cycle;item_cycle;item_pass;item_cycle;item_cycle;item_cycle;item_cycle
+item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas;item_cycle_pas
+order;order;order;order;order;order;order;order;order;order;order
+order_pass;order_pass;order_pass;order_pass;order_pass;order_pass;order_pass;order_pass;order_pass;package;order_pass
+package;package;package;package;package;package;package;package;package;order_pass;package
+package_pass_;package_pass_;package_pass_;package_pass_;package_pass_;package_pass_;package_pass_;package_pass;package_pass;package_pass;package_pass
