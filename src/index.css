@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.highlighted {
+  stroke: red !important;
+  stroke-width: 4px !important;
+  pointer-events: none;
+}
+
+.highlighted-dfg {
+  stroke: red !important;
+  stroke-width: 2px !important;
+  pointer-events: none;
+}
+
+.highlighted-white {
+  stroke: white !important;
+  stroke-width: 4px !important;
+  pointer-events: none;
+}
+
+.dfg-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 20%;
+  height: 100vh;
+  background: #f9f9f9;
+  border-right: 1px solid #ddd;
+  z-index: 1000;
+  overflow: auto;
+  padding: 10px;
+}
+
+.dfg-node circle {
+  transition: all 0.2s;
+}
+
+.dfg-node:hover circle {
+  stroke-width: 3px !important;
+  filter: drop-shadow(0 0 5px rgba(0,0,0,0.2));
+}
+
+.dfg-link {
+  transition: all 0.2s;
+}
+
+.dfg-link:hover {
+  stroke-opacity: 1 !important;
+}
+
+.highlighted {
+  stroke: #ff5722 !important;
+  stroke-width: 3px !important;
+}

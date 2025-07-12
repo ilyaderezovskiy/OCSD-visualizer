@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OCSD-visualizer/static/css/main.ab0aea65.css",
+    "main.js": "/OCSD-visualizer/static/js/main.3d63bdf4.js",
+    "index.html": "/OCSD-visualizer/index.html",
+    "main.ab0aea65.css.map": "/OCSD-visualizer/static/css/main.ab0aea65.css.map",
+    "main.3d63bdf4.js.map": "/OCSD-visualizer/static/js/main.3d63bdf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab0aea65.css",
+    "static/js/main.3d63bdf4.js"
+  ]
+}
